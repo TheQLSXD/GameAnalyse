@@ -1,0 +1,2684 @@
+{
+  "updates": [
+    {
+      "update_id": "6339469370201073356",
+      "title": "Release Stream with the Devs!",
+      "version": null,
+      "timestamp": 1727808385,
+      "date": "2024-10-02",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6339469370201073356",
+      "content": "{STEAM_CLAN_IMAGE}/44971628/936229877c3a4177e19a619ff01251730e560c0f.png Join Alliance devs as they play the new Undying Fury Mini Campaign live! It’s the perfect chance to come say hi and ask all your burning questions. We'll keep an eye open on the chat! https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/",
+      "datetime": "2024-10-02 02:46:25"
+    },
+    {
+      "update_id": "1784506359178256",
+      "title": "Ancient Hunger Release Day Stream with the devs!",
+      "version": null,
+      "timestamp": 1733235233,
+      "date": "2024-12-03",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1784506359178256",
+      "content": "{STEAM_CLAN_IMAGE}/44971628/38ab379d0c2184bb853055f0086b6c0771a09d73.png Let's Play the New Ancient Hunger Mini Campaign with Camille, the Game Designer behind the update! Join the fun, ask your burning questions in the chat, win game keys, and take an exciting look at the future with an updated Kingdom Rush Alliance roadmap reveal. Don’t miss out—see you later, alligator! ANCIENT HUNGER FEATURES 🌿 3 Swamp-Smelling Stages 🐊 10 Ruthless New Enemies ⛓️ 1 Giant Menace of a Boss 🐸 1 New Ribbiting Tower 🐲 1 Unyielding New Hero 🏆 5 Shiny New Achievements https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/",
+      "datetime": "2024-12-03 22:13:53"
+    },
+    {
+      "update_id": "1785321795736029",
+      "title": "Updated Kingdom Rush Alliance Roadmap",
+      "version": null,
+      "timestamp": 1733754456,
+      "date": "2024-12-09",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785321795736029",
+      "content": "{STEAM_CLAN_IMAGE}/44971628/032eb7fbeb44bac5b1d0761a0fc5166e38472917.png January: DLC Exclusive Campaign - What better resolution is there for New Year than playing more Kingdom Rush Alliance? The exclusive Campaign will feature five new stages, one hero, and one powerful tower to start your year with a bang. To Be Determined: FREE Mini Campaign - Epic New Mini Campaign, with 3 stages, 1 new hero, and 1 new tower! https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/ Plus even more content to come —we’ll keep you posted! ",
+      "datetime": "2024-12-09 22:27:36"
+    },
+    {
+      "update_id": "1788945554756512",
+      "title": "Abominor Mechanics Update",
+      "version": null,
+      "timestamp": 1736946313,
+      "date": "2025-01-15",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1788945554756512",
+      "content": "{STEAM_CLAN_IMAGE}/44971628/b994b6107fff322d15fbcf7007ee422f86a339e7.jpg We’ve heard your feedback loud and clear, and we’re excited to share some changes we made to Abominor. Many of you raised concerns about its tower-destroying mechanic, and we’ve reworked it to make the encounter more balanced and rewarding. What's New? Abominor will no longer outright destroy towers. Instead, towers will now be reduced to rubble. You’ll have the option to repair these ruins, restoring your tower back to action—for a cost. This change keeps the tension high without feeling overly punishing. Additionally, Abominor’s stats have been adjusted to ensure a fair but challenging experience. Abominor's adjustments: Speed (across phases): Old: 22/19/14/10/7 New: 24/21/17/14/12 Restore HP on Phase Up: Old: 1700/2200/1700/2200 New: 1700/2200/1700/4000 Tower Eating Cooldown: Old: 12/12/18/18/20 New: 12/12/16/16/18 Thank you for your feedback and for helping us improve the game with every update. Try it out and...",
+      "datetime": "2025-01-15 21:05:13"
+    },
+    {
+      "update_id": "1790848102586868",
+      "title": "Bug Fixes Changelog",
+      "version": null,
+      "timestamp": 1738764608,
+      "date": "2025-02-05",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1790848102586868",
+      "content": "{STEAM_CLAN_IMAGE}/44971628/2b0bf39f89f2a40f6032ca291868a75f7f14e243.png Hello Generals! we wanted to let you know that we have several bug fixes. Changelog: Fixed Rocket Gunners Missile crash Fixed Dante and Demon Pit's damage types Fixed several chinese localization texts Balanced SFXs on stage 24 We are still working on fixing the timing of the opening of the foot in stage 1, and some further rebalancing of the dlc. If you still experience any issues, please comment in this discussion as we will be taking a close look at the comments. Thank you so much for your patience and helping us improve the game! https://store.steampowered.com/app/3368630/Kingdom_Rush_5_Alliance_TD__Colossal_Dwarfare_Campaign/",
+      "datetime": "2025-02-05 22:10:08"
+    },
+    {
+      "update_id": "1790848102785644",
+      "title": "Balance Patch: Buffs to Towers, Heroes, and Enemies",
+      "version": null,
+      "timestamp": 1739285705,
+      "date": "2025-02-11",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1790848102785644",
+      "content": "{STEAM_CLAN_IMAGE}/44971628/42cd51c27270295e13036f570743a30968692584.png Hello Generals! As promised, we are making a big set of balance changes to Kingdom Rush Alliance. You’ll notice we’ve buffed up the weaker towers and heroes, while some Colossal Dwarfare enemies have been strengthened mostly on Impossible difficulty. Full changelog: Towers Dwarven Flamespitter: Can now target flying enemies Brewmasters: Halfdan attack speed buffed 1.5 sec -> 1 sec Necromancer: Basic skeleton now has 50 HP (from 40) and 3-5 damage (from 1-4). Golem has 150 HP (from 120) and 8-12 dmg (from 6-10). Cooldown for Rattling Beacon was reduced in levels 1 and 2 Elven Stargazer: fixed attack rate change bug between some upgrades, Reload Damage increased from 4-6/10-16/20-28/32-48 to 4-6/11-18/22-32/34-52 Event Horizon Cost decreased from 250/150/150 to 250/100/100 Rising Star Damage increased from 16-24/28-42/36-54 to 18-30/28-42/36-54 Rising Star Range increased from 120 to 200 Rising Star Stun increased f...",
+      "datetime": "2025-02-11 22:55:05"
+    }
+  ],
+  "by_update": {
+    "2024-10-02_Release Stream with ": {
+      "title": "Release Stream with the Devs!",
+      "date": "2024-10-02",
+      "timestamp": 1727808385,
+      "review_count": 1153,
+      "positive_ratio": 94.5359930615785,
+      "sentiment_avg": 0.3784632520147208,
+      "aspect_scores": {
+        "pos": 0.6046530092141025,
+        "neg": 0.16795410266794436,
+        "neu": 0.38262770621086395,
+        "language": 0,
+        "gameplay": 0.1730456878792682,
+        "price": 0.0008618903617248536,
+        "graphics": 0.021702847142524594,
+        "sound": 0.0012299813802334723,
+        "technical": 0.0048470125726791154,
+        "community": 0.0004649668898252123,
+        "accessibility": -0.00028089140571128945,
+        "innovation": 0.031914048102378925,
+        "pacing": 0.010533353239195405,
+        "learning_curve": 0.01331137250608033,
+        "tower_defense": 0.0,
+        "label": 0,
+        "bert_processed": 0.6782307025151778,
+        "general": 0.4364490600998972
+      },
+      "positive_examples": [
+        "好玩",
+        "塔防游戏的标杆，王国保卫战系列的最新作，在如今的购买力下，这是非常划算的一款游戏，两杯星巴克的钱，就能体验一款制作精良，玩法独树一帜的休闲游戏，遗憾的是游戏流程目前偏短，产能感人，这系列前作还爱出付费更新，喜欢塔防并有经济条件的值得一玩。",
+        "支持铁皮，从4399到手游再到Steam，KR的陪伴让我收获了相当多的快乐，塔防巅峰神作实至名归"
+      ],
+      "negative_examples": [
+        "Très bon Kingdom Rush avec une grande diversité d'options de jeu.\n\nHâte de voir plus de contenu additionnel étoffer le jeu d'avantage.",
+        "its fun, but its also very short",
+        "Nagyon Tetszik a játék. Szerintem jó az ötlet, hogy az előző játékokban megismert hősök, ellenségek összefognak egy nagyobb gonosz ellen, amit az építhető tornyok és játszható hősök is mutatnak."
+      ],
+      "update_content": "{STEAM_CLAN_IMAGE}/44971628/936229877c3a4177e19a619ff01251730e560c0f.png Join Alliance devs as they play the new Undying Fury Mini Campaign live! It’s the perfect chance to come say hi and ask all your burning questions. We'll keep an eye open on the chat! https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/",
+      "update_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6339469370201073356"
+    },
+    "2024-12-03_Ancient Hunger Relea": {
+      "title": "Ancient Hunger Release Day Stream with the devs!",
+      "date": "2024-12-03",
+      "timestamp": 1733235233,
+      "review_count": 232,
+      "positive_ratio": 81.89655172413794,
+      "sentiment_avg": 0.3607418480789276,
+      "aspect_scores": {
+        "pos": 0.6185857330805947,
+        "neg": 0.22100478416078453,
+        "neu": 0.2965901912834179,
+        "language": 0,
+        "gameplay": 0.13131968622781093,
+        "price": -0.0030290526148508174,
+        "graphics": 0.03145057243475684,
+        "sound": -0.0033777594118242025,
+        "technical": 0.027700712366224466,
+        "community": 0.00315949941515388,
+        "accessibility": 0.012604489336041556,
+        "innovation": 0.022862733807090148,
+        "pacing": 0.005980383745673647,
+        "learning_curve": 0.01565358244401154,
+        "tower_defense": 0.0,
+        "label": 0,
+        "bert_processed": 0.728448275862069,
+        "general": 0.3819104004307719
+      },
+      "positive_examples": [
+        "还挺喜欢这部的 很好玩 双英雄还挺好的 英雄前期小树灵是最好用的 再加一个定点站位的英雄 但后期那肯定就是两条龙了 死灵法师塔是真的全能 伤害防空拦截加一条路的伤害 目前流程太短了 完全不够玩 超级期待后续内容 铁皮收到火速更新！",
+        "好玩",
+        "love it"
+      ],
+      "negative_examples": [
+        "Para ser la quinta entrega de una aclamada saga de tower defence, debo de admitir que tiene mecanicas revolucionarias que podrian considerarla uno de los mejores Kingdom Rush. Tener dos heroes en batalla, y cinco torres de alguna de las dos facciones es una excelente tematica y forma de introducir nuevas formas de juego, donde puedes hacer una mezcla de ambos bandos o alinearte mas para uno, Los niveles y enemigos estan muy bien ambientados y hechos, e incluso la pelea de el jefe final es extremadamente buena y original. Las torres y heroes son una combinacion de nuevos personajes con algunos de antiguas entregas, e incluso expandiendo sus futuros luego de sus respectivos tiempos.\nRecomiendo mucho este juego de Kingdom Rush, tiene una buena dinamica muy original y abierta para todos, donde incluso podemos elegir un bando que mas nos agrade.",
+        "我更新呢？）",
+        "能不能改改你那龙族的祖传弱索敌，这次木龙简直集大分之成者，远的不大、近的不打、脚底的不打，还有boss 除了拆塔就想不出其他机制了？"
+      ],
+      "update_content": "{STEAM_CLAN_IMAGE}/44971628/38ab379d0c2184bb853055f0086b6c0771a09d73.png Let's Play the New Ancient Hunger Mini Campaign with Camille, the Game Designer behind the update! Join the fun, ask your burning questions in the chat, win game keys, and take an exciting look at the future with an updated Kingdom Rush Alliance roadmap reveal. Don’t miss out—see you later, alligator! ANCIENT HUNGER FEATURES 🌿 3 Swamp-Smelling Stages 🐊 10 Ruthless New Enemies ⛓️ 1 Giant Menace of a Boss 🐸 1 New Ribbiting Tower 🐲 1 Unyielding New Hero 🏆 5 Shiny New Achievements https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/",
+      "update_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1784506359178256"
+    },
+    "2024-12-09_Updated Kingdom Rush": {
+      "title": "Updated Kingdom Rush Alliance Roadmap",
+      "date": "2024-12-09",
+      "timestamp": 1733754456,
+      "review_count": 426,
+      "positive_ratio": 83.80281690140845,
+      "sentiment_avg": 0.3717411453984867,
+      "aspect_scores": {
+        "pos": 0.5800717160760828,
+        "neg": 0.1881348566938703,
+        "neu": 0.364531409468334,
+        "language": 0,
+        "gameplay": 0.1153169381517198,
+        "price": 0.006547439381768234,
+        "graphics": 0.015805240832027664,
+        "sound": 0.00659853531203391,
+        "technical": 0.0053178618757637065,
+        "community": 0.004583578194601257,
+        "accessibility": 0.005353309150951952,
+        "innovation": 0.02208103650060107,
+        "pacing": 0.0020938898913252213,
+        "learning_curve": 0.00402373138451864,
+        "tower_defense": 0.0,
+        "label": 0,
+        "bert_processed": 0.7699530516431925,
+        "general": 0.2934379820323442
+      },
+      "positive_examples": [
+        "很经典的塔防游戏，喜欢",
+        "比四代好玩",
+        "As usual have fun playing :)"
+      ],
+      "negative_examples": [
+        "好玩爱玩，一到五全入库",
+        "Amo muito essa franquia, as fases são muito bem equilibradas e gostei das torres novas também, só achei os herois que são de dano magico mais fracos que os de dano fisico, mas mesmo assim esse jogo é um deleite para quem gosta de tower defense, recomendo.",
+        "Well if you love Kingdom rush series, this nobrainer, not to mention this is dirt cheap compare to mobile version if you wanna have all the heroes and towers (with slower release that is)."
+      ],
+      "update_content": "{STEAM_CLAN_IMAGE}/44971628/032eb7fbeb44bac5b1d0761a0fc5166e38472917.png January: DLC Exclusive Campaign - What better resolution is there for New Year than playing more Kingdom Rush Alliance? The exclusive Campaign will feature five new stages, one hero, and one powerful tower to start your year with a bang. To Be Determined: FREE Mini Campaign - Epic New Mini Campaign, with 3 stages, 1 new hero, and 1 new tower! https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/ Plus even more content to come —we’ll keep you posted! ",
+      "update_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785321795736029"
+    },
+    "2025-01-15_Abominor Mechanics U": {
+      "title": "Abominor Mechanics Update",
+      "date": "2025-01-15",
+      "timestamp": 1736946313,
+      "review_count": 314,
+      "positive_ratio": 80.57324840764332,
+      "sentiment_avg": 0.27596584669465957,
+      "aspect_scores": {
+        "pos": 0.5701864617326533,
+        "neg": 0.22545048094250603,
+        "neu": 0.33803101250292444,
+        "language": 0,
+        "gameplay": 0.11698992934294053,
+        "price": -0.015464352005853114,
+        "graphics": 0.033685065196059134,
+        "sound": -0.00034285042891725063,
+        "technical": -0.0006100111932826723,
+        "community": 0.012476614574156773,
+        "accessibility": -0.001942644729637858,
+        "innovation": 0.02879216934870881,
+        "pacing": 0.00947093408864748,
+        "learning_curve": 0.002787516485435599,
+        "tower_defense": 0.0,
+        "label": 0,
+        "bert_processed": 0.7579617834394905,
+        "general": 0.2890235947394524
+      },
+      "positive_examples": [
+        "Toujours très beaux graphiquement.\r\nPlaisant à découvrir, peut-être trop facile même en impossible.\r\nLes tours avec unités moins efficaces de les précédents opus, ce n'est pas plus mal.\r\n\r\nIl manque toujours un mode multi-joueurs.",
+        "nb",
+        "已经通关了，游戏本身和前面几代没太大区别，英雄、防御塔、套路都差不多。喜欢这个类型的当打发时间玩玩是没问题的，但是~~这游戏售价太贵了，关卡本身不算多，流程也不长。打包DLC一起买100多确实太贵了，打五折可以买。"
+      ],
+      "negative_examples": [
+        "DLC 20多？过年发红包了使劲薅是吧？脸都不要了",
+        "不错，防御塔平衡性有待加强，量有点小",
+        "蛤取毁了KR5"
+      ],
+      "update_content": "{STEAM_CLAN_IMAGE}/44971628/b994b6107fff322d15fbcf7007ee422f86a339e7.jpg We’ve heard your feedback loud and clear, and we’re excited to share some changes we made to Abominor. Many of you raised concerns about its tower-destroying mechanic, and we’ve reworked it to make the encounter more balanced and rewarding. What's New? Abominor will no longer outright destroy towers. Instead, towers will now be reduced to rubble. You’ll have the option to repair these ruins, restoring your tower back to action—for a cost. This change keeps the tension high without feeling overly punishing. Additionally, Abominor’s stats have been adjusted to ensure a fair but challenging experience. Abominor's adjustments: Speed (across phases): Old: 22/19/14/10/7 New: 24/21/17/14/12 Restore HP on Phase Up: Old: 1700/2200/1700/2200 New: 1700/2200/1700/4000 Tower Eating Cooldown: Old: 12/12/18/18/20 New: 12/12/16/16/18 Thank you for your feedback and for helping us improve the game with every update. Try it out and...",
+      "update_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1788945554756512"
+    },
+    "2025-02-05_Bug Fixes Changelog": {
+      "title": "Bug Fixes Changelog",
+      "date": "2025-02-05",
+      "timestamp": 1738764608,
+      "review_count": 85,
+      "positive_ratio": 83.52941176470588,
+      "sentiment_avg": 0.35731946817545074,
+      "aspect_scores": {
+        "pos": 0.6235512981948821,
+        "neg": 0.18157811356982378,
+        "neu": 0.2982591290862229,
+        "language": 0,
+        "gameplay": 0.2175953475682984,
+        "price": -0.0666621861337073,
+        "graphics": 0.0075381588774626465,
+        "sound": -0.01161177158355713,
+        "technical": -0.03325921393709976,
+        "community": -0.012192363419183871,
+        "accessibility": -0.021949174927502143,
+        "innovation": 0.012422708135881557,
+        "pacing": 0.008167279274923122,
+        "learning_curve": 0.008692425578632495,
+        "tower_defense": 0.0,
+        "label": 0,
+        "bert_processed": 0.788235294117647,
+        "general": 0.40720543667107806
+      },
+      "positive_examples": [
+        "最新的DLC让我最惊喜的是，对于BOSS鳄鱼的处理，有一种打王国保卫战1的最终BOSS卫兹南那样的压迫感，真的感觉到这款游戏一直在挖寻新的东西谋求进步，这么多年了真的respect♥",
+        "真好玩",
+        "比上一代好"
+      ],
+      "negative_examples": [
+        "Как по мне часть не доделанная, но ее спасают новые мини кампании, в длс пока не играл, но игру прошел на 70/70 достижений(не считая нового длс), мб завтра куплю длс и попробую, не испортит ли он мое впечетление.\r\nAs far as I'm concerned, the part is unfinished, but it's being saved by new mini-campaigns, I haven't played the DLC yet, but I've passed the game for 70/70 achievements (not counting the new dlc), and tomorrow I'll buy a dlc and see if it spoils my impression.",
+        "bad balance",
+        "So not worth the money for many of the reasons already stated. Beautiful artwork, some new towers, pretty cool. But sort of a rework of KR2. Here, they artificially increase the difficulty by adding a great many \"dual path\" scenarios. Their last couple games had some, and it was ok, but this game seems to depend on dual path to increase difficulty instead of using ingenuity."
+      ],
+      "update_content": "{STEAM_CLAN_IMAGE}/44971628/2b0bf39f89f2a40f6032ca291868a75f7f14e243.png Hello Generals! we wanted to let you know that we have several bug fixes. Changelog: Fixed Rocket Gunners Missile crash Fixed Dante and Demon Pit's damage types Fixed several chinese localization texts Balanced SFXs on stage 24 We are still working on fixing the timing of the opening of the foot in stage 1, and some further rebalancing of the dlc. If you still experience any issues, please comment in this discussion as we will be taking a close look at the comments. Thank you so much for your patience and helping us improve the game! https://store.steampowered.com/app/3368630/Kingdom_Rush_5_Alliance_TD__Colossal_Dwarfare_Campaign/",
+      "update_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1790848102586868"
+    },
+    "2025-02-11_Balance Patch: Buffs": {
+      "title": "Balance Patch: Buffs to Towers, Heroes, and Enemies",
+      "date": "2025-02-11",
+      "timestamp": 1739285705,
+      "review_count": 156,
+      "positive_ratio": 86.53846153846155,
+      "sentiment_avg": 0.2720878395850909,
+      "aspect_scores": {
+        "pos": 0.5751671564612154,
+        "neg": 0.16371745892339995,
+        "neu": 0.408601816037214,
+        "language": 0,
+        "gameplay": 0.1477693391880627,
+        "price": -0.011063216439096543,
+        "graphics": 0.028535011806422855,
+        "sound": 0.011563134123153913,
+        "technical": 0.0050038496951008045,
+        "community": 0.012348537599852489,
+        "accessibility": 0.008213091480935355,
+        "innovation": 0.0387037281564381,
+        "pacing": -0.006608000880963093,
+        "learning_curve": 0.015890037029456548,
+        "tower_defense": 0.0,
+        "label": 0,
+        "bert_processed": 0.6923076923076923,
+        "general": 0.3892146518049473
+      },
+      "positive_examples": [
+        "很不错",
+        "Good game",
+        "好玩爱玩\n"
+      ],
+      "negative_examples": [
+        "insanidad",
+        "ras",
+        "Gayet keyifli, bazı bölümler gerçekten zor olmuş Veteran'da 3 yıldız almakta zorlandıklarım oldu. Adam olan veteran oynar zaten yumuşaklar normalde oynayıp kolaydı desin. For Lineria"
+      ],
+      "update_content": "{STEAM_CLAN_IMAGE}/44971628/42cd51c27270295e13036f570743a30968692584.png Hello Generals! As promised, we are making a big set of balance changes to Kingdom Rush Alliance. You’ll notice we’ve buffed up the weaker towers and heroes, while some Colossal Dwarfare enemies have been strengthened mostly on Impossible difficulty. Full changelog: Towers Dwarven Flamespitter: Can now target flying enemies Brewmasters: Halfdan attack speed buffed 1.5 sec -> 1 sec Necromancer: Basic skeleton now has 50 HP (from 40) and 3-5 damage (from 1-4). Golem has 150 HP (from 120) and 8-12 dmg (from 6-10). Cooldown for Rattling Beacon was reduced in levels 1 and 2 Elven Stargazer: fixed attack rate change bug between some upgrades, Reload Damage increased from 4-6/10-16/20-28/32-48 to 4-6/11-18/22-32/34-52 Event Horizon Cost decreased from 250/150/150 to 250/100/100 Rising Star Damage increased from 16-24/28-42/36-54 to 18-30/28-42/36-54 Rising Star Range increased from 120 to 200 Rising Star Stun increased f...",
+      "update_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1790848102785644"
+    }
+  },
+  "overall_trends": [
+    {
+      "date": "2024-07-25",
+      "review_count": 590,
+      "positive_ratio": 88.98305084745762,
+      "sentiment_avg": 0.2906380109496939,
+      "positive_ratio_ma7": 88.98305084745762,
+      "sentiment_avg_ma7": 0.2906380109496939
+    },
+    {
+      "date": "2024-07-26",
+      "review_count": 756,
+      "positive_ratio": 86.90476190476191,
+      "sentiment_avg": 0.2641338447428043,
+      "positive_ratio_ma7": 87.94390637610977,
+      "sentiment_avg_ma7": 0.2773859278462491
+    },
+    {
+      "date": "2024-07-27",
+      "review_count": 533,
+      "positive_ratio": 81.98874296435272,
+      "sentiment_avg": 0.22994423030547403,
+      "positive_ratio_ma7": 85.9588519055241,
+      "sentiment_avg_ma7": 0.2615720286659908
+    },
+    {
+      "date": "2024-07-28",
+      "review_count": 398,
+      "positive_ratio": 79.39698492462311,
+      "sentiment_avg": 0.27533392079549657,
+      "positive_ratio_ma7": 84.31838516029885,
+      "sentiment_avg_ma7": 0.2650125016983672
+    },
+    {
+      "date": "2024-07-29",
+      "review_count": 324,
+      "positive_ratio": 86.72839506172839,
+      "sentiment_avg": 0.19822943715412442,
+      "positive_ratio_ma7": 84.80038714058476,
+      "sentiment_avg_ma7": 0.25165588878951867
+    },
+    {
+      "date": "2024-07-30",
+      "review_count": 238,
+      "positive_ratio": 84.87394957983193,
+      "sentiment_avg": 0.2574902739020844,
+      "positive_ratio_ma7": 84.81264754712595,
+      "sentiment_avg_ma7": 0.2526282863082796
+    },
+    {
+      "date": "2024-07-31",
+      "review_count": 217,
+      "positive_ratio": 85.25345622119815,
+      "sentiment_avg": 0.2520718498296713,
+      "positive_ratio_ma7": 84.87562021485054,
+      "sentiment_avg_ma7": 0.25254879538276415
+    },
+    {
+      "date": "2024-08-01",
+      "review_count": 164,
+      "positive_ratio": 92.6829268292683,
+      "sentiment_avg": 0.3603950141622597,
+      "positive_ratio_ma7": 85.40417392653778,
+      "sentiment_avg_ma7": 0.2625140815559878
+    },
+    {
+      "date": "2024-08-02",
+      "review_count": 139,
+      "positive_ratio": 87.05035971223022,
+      "sentiment_avg": 0.2465122975357986,
+      "positive_ratio_ma7": 85.42497361331898,
+      "sentiment_avg_ma7": 0.25999671766927274
+    },
+    {
+      "date": "2024-08-03",
+      "review_count": 127,
+      "positive_ratio": 87.4015748031496,
+      "sentiment_avg": 0.32981408821480324,
+      "positive_ratio_ma7": 86.19823530457568,
+      "sentiment_avg_ma7": 0.2742638402277483
+    },
+    {
+      "date": "2024-08-04",
+      "review_count": 106,
+      "positive_ratio": 81.13207547169812,
+      "sentiment_avg": 0.3226029849498389,
+      "positive_ratio_ma7": 86.44610538272924,
+      "sentiment_avg_ma7": 0.28101656367836864
+    },
+    {
+      "date": "2024-08-05",
+      "review_count": 113,
+      "positive_ratio": 92.03539823008849,
+      "sentiment_avg": 0.3495202196503097,
+      "positive_ratio_ma7": 87.20424869249497,
+      "sentiment_avg_ma7": 0.30262953260639514
+    },
+    {
+      "date": "2024-08-06",
+      "review_count": 85,
+      "positive_ratio": 84.70588235294117,
+      "sentiment_avg": 0.2376212219394418,
+      "positive_ratio_ma7": 87.18023908865345,
+      "sentiment_avg_ma7": 0.29979109661173187
+    },
+    {
+      "date": "2024-08-07",
+      "review_count": 88,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.3682328477332426,
+      "positive_ratio_ma7": 87.50117391419656,
+      "sentiment_avg_ma7": 0.31638552488367067
+    },
+    {
+      "date": "2024-08-08",
+      "review_count": 68,
+      "positive_ratio": 85.29411764705883,
+      "sentiment_avg": 0.23928423705137924,
+      "positive_ratio_ma7": 86.44562974530949,
+      "sentiment_avg_ma7": 0.29908398529640196
+    },
+    {
+      "date": "2024-08-09",
+      "review_count": 61,
+      "positive_ratio": 86.88524590163934,
+      "sentiment_avg": 0.24999723780656358,
+      "positive_ratio_ma7": 86.42204205808221,
+      "sentiment_avg_ma7": 0.29958183390651133
+    },
+    {
+      "date": "2024-08-10",
+      "review_count": 61,
+      "positive_ratio": 86.88524590163934,
+      "sentiment_avg": 0.3323909880683074,
+      "positive_ratio_ma7": 86.34828078643788,
+      "sentiment_avg_ma7": 0.29994996245701194
+    },
+    {
+      "date": "2024-08-11",
+      "review_count": 69,
+      "positive_ratio": 86.95652173913044,
+      "sentiment_avg": 0.3432335631987625,
+      "positive_ratio_ma7": 87.18034453892824,
+      "sentiment_avg_ma7": 0.30289718792114384
+    },
+    {
+      "date": "2024-08-12",
+      "review_count": 35,
+      "positive_ratio": 77.14285714285715,
+      "sentiment_avg": 0.2764062031368942,
+      "positive_ratio_ma7": 85.05283866932375,
+      "sentiment_avg_ma7": 0.29245232841922736
+    },
+    {
+      "date": "2024-08-13",
+      "review_count": 41,
+      "positive_ratio": 90.2439024390244,
+      "sentiment_avg": 0.3058090045228803,
+      "positive_ratio_ma7": 85.84398439590707,
+      "sentiment_avg_ma7": 0.3021934402168614
+    },
+    {
+      "date": "2024-08-14",
+      "review_count": 36,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": 0.4079281727546157,
+      "positive_ratio_ma7": 85.24874630066897,
+      "sentiment_avg_ma7": 0.3078642009342004
+    },
+    {
+      "date": "2024-08-15",
+      "review_count": 37,
+      "positive_ratio": 81.08108108108108,
+      "sentiment_avg": 0.27776750160419184,
+      "positive_ratio_ma7": 84.64688393410073,
+      "sentiment_avg_ma7": 0.31336181015603076
+    },
+    {
+      "date": "2024-08-16",
+      "review_count": 27,
+      "positive_ratio": 81.48148148148148,
+      "sentiment_avg": 0.3286830726711812,
+      "positive_ratio_ma7": 83.8749175883639,
+      "sentiment_avg_ma7": 0.324602643708119
+    },
+    {
+      "date": "2024-08-17",
+      "review_count": 40,
+      "positive_ratio": 95.0,
+      "sentiment_avg": 0.40708003315485375,
+      "positive_ratio_ma7": 85.034168173844,
+      "sentiment_avg_ma7": 0.3352725072919114
+    },
+    {
+      "date": "2024-08-18",
+      "review_count": 38,
+      "positive_ratio": 94.73684210526315,
+      "sentiment_avg": 0.23113555392566665,
+      "positive_ratio_ma7": 86.14564251186296,
+      "sentiment_avg_ma7": 0.31925850596718336
+    },
+    {
+      "date": "2024-08-19",
+      "review_count": 32,
+      "positive_ratio": 84.375,
+      "sentiment_avg": 0.2135307538974926,
+      "positive_ratio_ma7": 87.17880577716907,
+      "sentiment_avg_ma7": 0.31027629893298314
+    },
+    {
+      "date": "2024-08-20",
+      "review_count": 25,
+      "positive_ratio": 92.0,
+      "sentiment_avg": 0.42966941014060933,
+      "positive_ratio_ma7": 87.42967685730845,
+      "sentiment_avg_ma7": 0.32797064259265873
+    },
+    {
+      "date": "2024-08-21",
+      "review_count": 33,
+      "positive_ratio": 90.9090909090909,
+      "sentiment_avg": 0.4264082447953302,
+      "positive_ratio_ma7": 88.51192793955953,
+      "sentiment_avg_ma7": 0.3306106528841894
+    },
+    {
+      "date": "2024-08-22",
+      "review_count": 10,
+      "positive_ratio": 90.0,
+      "sentiment_avg": -0.34618104946732353,
+      "positive_ratio_ma7": 89.78605921369079,
+      "sentiment_avg_ma7": 0.2414751455882586
+    },
+    {
+      "date": "2024-08-23",
+      "review_count": 21,
+      "positive_ratio": 95.23809523809523,
+      "sentiment_avg": 0.4502368624948298,
+      "positive_ratio_ma7": 91.7512897503499,
+      "sentiment_avg_ma7": 0.2588399727059227
+    },
+    {
+      "date": "2024-08-24",
+      "review_count": 26,
+      "positive_ratio": 92.3076923076923,
+      "sentiment_avg": 0.2606476762575791,
+      "positive_ratio_ma7": 91.36667436573453,
+      "sentiment_avg_ma7": 0.2379210645777406
+    },
+    {
+      "date": "2024-08-25",
+      "review_count": 27,
+      "positive_ratio": 88.88888888888889,
+      "sentiment_avg": 0.4491983485984778,
+      "positive_ratio_ma7": 90.53125247768105,
+      "sentiment_avg_ma7": 0.2690728923881422
+    },
+    {
+      "date": "2024-08-26",
+      "review_count": 20,
+      "positive_ratio": 85.0,
+      "sentiment_avg": 0.10866628209525779,
+      "positive_ratio_ma7": 90.62053819196674,
+      "sentiment_avg_ma7": 0.25409225355925147
+    },
+    {
+      "date": "2024-08-27",
+      "review_count": 16,
+      "positive_ratio": 87.5,
+      "sentiment_avg": -0.12194469094094494,
+      "positive_ratio_ma7": 89.9776810491096,
+      "sentiment_avg_ma7": 0.17529023911902947
+    },
+    {
+      "date": "2024-08-28",
+      "review_count": 15,
+      "positive_ratio": 80.0,
+      "sentiment_avg": -0.06098524416526371,
+      "positive_ratio_ma7": 88.41923949066805,
+      "sentiment_avg_ma7": 0.1056625978389446
+    },
+    {
+      "date": "2024-08-29",
+      "review_count": 16,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.39664461736282747,
+      "positive_ratio_ma7": 88.0620966335252,
+      "sentiment_avg_ma7": 0.2117805502432519
+    },
+    {
+      "date": "2024-08-30",
+      "review_count": 15,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.39144517705013887,
+      "positive_ratio_ma7": 88.74236874236874,
+      "sentiment_avg_ma7": 0.20338173803686746
+    },
+    {
+      "date": "2024-08-31",
+      "review_count": 17,
+      "positive_ratio": 94.11764705882352,
+      "sentiment_avg": 0.36699785839943866,
+      "positive_ratio_ma7": 89.00093370681607,
+      "sentiment_avg_ma7": 0.21857462119999024
+    },
+    {
+      "date": "2024-09-01",
+      "review_count": 18,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": 0.19010755821357636,
+      "positive_ratio_ma7": 88.20728291316527,
+      "sentiment_avg_ma7": 0.1815616511450044
+    },
+    {
+      "date": "2024-09-02",
+      "review_count": 17,
+      "positive_ratio": 82.35294117647058,
+      "sentiment_avg": 0.4394102287376281,
+      "positive_ratio_ma7": 87.82913165266108,
+      "sentiment_avg_ma7": 0.2288107863796287
+    },
+    {
+      "date": "2024-09-03",
+      "review_count": 14,
+      "positive_ratio": 92.85714285714286,
+      "sentiment_avg": -0.010469843796340148,
+      "positive_ratio_ma7": 88.59443777511004,
+      "sentiment_avg_ma7": 0.24473576454314366
+    },
+    {
+      "date": "2024-09-04",
+      "review_count": 19,
+      "positive_ratio": 94.73684210526315,
+      "sentiment_avg": 0.3351448362730752,
+      "positive_ratio_ma7": 90.69970093300479,
+      "sentiment_avg_ma7": 0.3013257760343349
+    },
+    {
+      "date": "2024-09-05",
+      "review_count": 15,
+      "positive_ratio": 93.33333333333333,
+      "sentiment_avg": 0.3612444674914575,
+      "positive_ratio_ma7": 91.5330342663381,
+      "sentiment_avg_ma7": 0.2962686117669963
+    },
+    {
+      "date": "2024-09-06",
+      "review_count": 12,
+      "positive_ratio": 75.0,
+      "sentiment_avg": 0.29142222944252594,
+      "positive_ratio_ma7": 87.96160569490954,
+      "sentiment_avg_ma7": 0.2819796192516231
+    },
+    {
+      "date": "2024-09-07",
+      "review_count": 11,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.23139473538485894,
+      "positive_ratio_ma7": 88.80194182936332,
+      "sentiment_avg_ma7": 0.26260774453525454
+    },
+    {
+      "date": "2024-09-08",
+      "review_count": 15,
+      "positive_ratio": 93.33333333333333,
+      "sentiment_avg": 0.22742658952902386,
+      "positive_ratio_ma7": 90.23051325793475,
+      "sentiment_avg_ma7": 0.26793903472317565
+    },
+    {
+      "date": "2024-09-09",
+      "review_count": 10,
+      "positive_ratio": 90.0,
+      "sentiment_avg": 0.49203890498593755,
+      "positive_ratio_ma7": 91.32295023272466,
+      "sentiment_avg_ma7": 0.2754574170443627
+    },
+    {
+      "date": "2024-09-10",
+      "review_count": 15,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.22217634882734627,
+      "positive_ratio_ma7": 89.48621553884712,
+      "sentiment_avg_ma7": 0.308692587419175
+    },
+    {
+      "date": "2024-09-11",
+      "review_count": 8,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.25072270346115855,
+      "positive_ratio_ma7": 88.45238095238095,
+      "sentiment_avg_ma7": 0.29663228273175835
+    },
+    {
+      "date": "2024-09-12",
+      "review_count": 7,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.49199348361267553,
+      "positive_ratio_ma7": 89.40476190476191,
+      "sentiment_avg_ma7": 0.31531071360621804
+    },
+    {
+      "date": "2024-09-13",
+      "review_count": 6,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": -0.020076898958066764,
+      "positive_ratio_ma7": 90.5952380952381,
+      "sentiment_avg_ma7": 0.2708108381204191
+    },
+    {
+      "date": "2024-09-14",
+      "review_count": 8,
+      "positive_ratio": 87.5,
+      "sentiment_avg": -0.02872258419199763,
+      "positive_ratio_ma7": 88.80952380952382,
+      "sentiment_avg_ma7": 0.23365122103801106
+    },
+    {
+      "date": "2024-09-15",
+      "review_count": 24,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": 0.22250575495868444,
+      "positive_ratio_ma7": 87.38095238095238,
+      "sentiment_avg_ma7": 0.2329482446708197
+    },
+    {
+      "date": "2024-09-16",
+      "review_count": 10,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.32547204415980807,
+      "positive_ratio_ma7": 88.80952380952381,
+      "sentiment_avg_ma7": 0.20915297883851552
+    },
+    {
+      "date": "2024-09-17",
+      "review_count": 14,
+      "positive_ratio": 85.71428571428571,
+      "sentiment_avg": 0.2530444623597341,
+      "positive_ratio_ma7": 89.62585034013605,
+      "sentiment_avg_ma7": 0.21356270934314234
+    },
+    {
+      "date": "2024-09-18",
+      "review_count": 4,
+      "positive_ratio": 75.0,
+      "sentiment_avg": 0.5922430770273976,
+      "positive_ratio_ma7": 87.84013605442178,
+      "sentiment_avg_ma7": 0.26235133413831935
+    },
+    {
+      "date": "2024-09-19",
+      "review_count": 7,
+      "positive_ratio": 85.71428571428571,
+      "sentiment_avg": 0.22969139456587553,
+      "positive_ratio_ma7": 85.79931972789116,
+      "sentiment_avg_ma7": 0.22487960713163363
+    },
+    {
+      "date": "2024-09-20",
+      "review_count": 17,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.44556606212138256,
+      "positive_ratio_ma7": 88.18027210884352,
+      "sentiment_avg_ma7": 0.29140003014298355
+    },
+    {
+      "date": "2024-09-21",
+      "review_count": 14,
+      "positive_ratio": 78.57142857142857,
+      "sentiment_avg": 0.34765170657770644,
+      "positive_ratio_ma7": 86.9047619047619,
+      "sentiment_avg_ma7": 0.34516778596722697
+    },
+    {
+      "date": "2024-09-22",
+      "review_count": 16,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.4877619172719838,
+      "positive_ratio_ma7": 87.5,
+      "sentiment_avg_ma7": 0.38306152344055544
+    },
+    {
+      "date": "2024-09-23",
+      "review_count": 8,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.41967708424925665,
+      "positive_ratio_ma7": 87.5,
+      "sentiment_avg_ma7": 0.3965193863104767
+    },
+    {
+      "date": "2024-09-24",
+      "review_count": 11,
+      "positive_ratio": 81.81818181818183,
+      "sentiment_avg": 0.10594498977958083,
+      "positive_ratio_ma7": 86.94341372912801,
+      "sentiment_avg_ma7": 0.3755051759418833
+    },
+    {
+      "date": "2024-09-25",
+      "review_count": 8,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.5549674213805043,
+      "positive_ratio_ma7": 90.51484230055658,
+      "sentiment_avg_ma7": 0.3701800822780414
+    },
+    {
+      "date": "2024-09-26",
+      "review_count": 12,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.3416047035089786,
+      "positive_ratio_ma7": 92.5556586270872,
+      "sentiment_avg_ma7": 0.3861676978413419
+    },
+    {
+      "date": "2024-09-27",
+      "review_count": 9,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.3901812426984493,
+      "positive_ratio_ma7": 92.5556586270872,
+      "sentiment_avg_ma7": 0.3782555807809228
+    },
+    {
+      "date": "2024-09-28",
+      "review_count": 9,
+      "positive_ratio": 77.77777777777779,
+      "sentiment_avg": 0.2646366021456641,
+      "positive_ratio_ma7": 92.44227994227994,
+      "sentiment_avg_ma7": 0.3663962801477739
+    },
+    {
+      "date": "2024-09-29",
+      "review_count": 6,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.6413515479024451,
+      "positive_ratio_ma7": 94.22799422799423,
+      "sentiment_avg_ma7": 0.38833765595212555
+    },
+    {
+      "date": "2024-09-30",
+      "review_count": 6,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": 0.6572323871901781,
+      "positive_ratio_ma7": 91.84704184704185,
+      "sentiment_avg_ma7": 0.42227412780082857
+    },
+    {
+      "date": "2024-10-01",
+      "review_count": 3,
+      "positive_ratio": 66.66666666666666,
+      "sentiment_avg": -0.13405133468853384,
+      "positive_ratio_ma7": 89.68253968253968,
+      "sentiment_avg_ma7": 0.3879889385910979
+    },
+    {
+      "date": "2024-10-02",
+      "review_count": 9,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.7504802576054932,
+      "positive_ratio_ma7": 89.68253968253968,
+      "sentiment_avg_ma7": 0.41591934376609635
+    },
+    {
+      "date": "2024-10-03",
+      "review_count": 61,
+      "positive_ratio": 91.80327868852459,
+      "sentiment_avg": 0.4503272812045788,
+      "positive_ratio_ma7": 88.51157949518606,
+      "sentiment_avg_ma7": 0.43145114057975353
+    },
+    {
+      "date": "2024-10-04",
+      "review_count": 37,
+      "positive_ratio": 89.1891891891892,
+      "sentiment_avg": 0.42724424396794686,
+      "positive_ratio_ma7": 86.9671779507845,
+      "sentiment_avg_ma7": 0.4367458550468246
+    },
+    {
+      "date": "2024-10-05",
+      "review_count": 28,
+      "positive_ratio": 85.71428571428571,
+      "sentiment_avg": 0.41361738940685905,
+      "positive_ratio_ma7": 88.10096479885708,
+      "sentiment_avg_ma7": 0.4580288246555667
+    },
+    {
+      "date": "2024-10-06",
+      "review_count": 22,
+      "positive_ratio": 95.45454545454545,
+      "sentiment_avg": 0.4105812567458338,
+      "positive_ratio_ma7": 87.45161414950643,
+      "sentiment_avg_ma7": 0.4250616402046223
+    },
+    {
+      "date": "2024-10-07",
+      "review_count": 14,
+      "positive_ratio": 92.85714285714286,
+      "sentiment_avg": 0.5568787782793552,
+      "positive_ratio_ma7": 88.8121583671935,
+      "sentiment_avg_ma7": 0.410725410360219
+    },
+    {
+      "date": "2024-10-08",
+      "review_count": 13,
+      "positive_ratio": 92.3076923076923,
+      "sentiment_avg": 0.22953773043910086,
+      "positive_ratio_ma7": 92.47516203019714,
+      "sentiment_avg_ma7": 0.46266670537845256
+    },
+    {
+      "date": "2024-10-09",
+      "review_count": 14,
+      "positive_ratio": 85.71428571428571,
+      "sentiment_avg": 0.5482851110619532,
+      "positive_ratio_ma7": 90.43434570366655,
+      "sentiment_avg_ma7": 0.4337816844436611
+    },
+    {
+      "date": "2024-10-10",
+      "review_count": 9,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.6140176822020719,
+      "positive_ratio_ma7": 91.60530589102018,
+      "sentiment_avg_ma7": 0.457166027443303
+    },
+    {
+      "date": "2024-10-11",
+      "review_count": 12,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.5117078860142489,
+      "positive_ratio_ma7": 93.14970743542173,
+      "sentiment_avg_ma7": 0.46923226202134616
+    },
+    {
+      "date": "2024-10-12",
+      "review_count": 13,
+      "positive_ratio": 84.61538461538461,
+      "sentiment_avg": 0.24535723410136653,
+      "positive_ratio_ma7": 92.99272156415012,
+      "sentiment_avg_ma7": 0.4451950969777044
+    },
+    {
+      "date": "2024-10-13",
+      "review_count": 11,
+      "positive_ratio": 90.9090909090909,
+      "sentiment_avg": 0.5428751129642643,
+      "positive_ratio_ma7": 92.3433709147995,
+      "sentiment_avg_ma7": 0.46409421929462297
+    },
+    {
+      "date": "2024-10-14",
+      "review_count": 8,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.08666688448556978,
+      "positive_ratio_ma7": 91.5780647923505,
+      "sentiment_avg_ma7": 0.3969210916097965
+    },
+    {
+      "date": "2024-10-15",
+      "review_count": 10,
+      "positive_ratio": 90.0,
+      "sentiment_avg": 0.46549610170249567,
+      "positive_ratio_ma7": 91.24839446268018,
+      "sentiment_avg_ma7": 0.43062943036171003
+    },
+    {
+      "date": "2024-10-16",
+      "review_count": 3,
+      "positive_ratio": 66.66666666666666,
+      "sentiment_avg": 0.1946881615244629,
+      "positive_ratio_ma7": 88.52730602730603,
+      "sentiment_avg_ma7": 0.3801155804277828
+    },
+    {
+      "date": "2024-10-17",
+      "review_count": 8,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.5320060548411789,
+      "positive_ratio_ma7": 86.74159174159173,
+      "sentiment_avg_ma7": 0.36839963366194095
+    },
+    {
+      "date": "2024-10-18",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.6055648548361362,
+      "positive_ratio_ma7": 86.74159174159173,
+      "sentiment_avg_ma7": 0.3818077720650677
+    },
+    {
+      "date": "2024-10-19",
+      "review_count": 11,
+      "positive_ratio": 90.9090909090909,
+      "sentiment_avg": 0.163520063630566,
+      "positive_ratio_ma7": 87.64069264069262,
+      "sentiment_avg_ma7": 0.37011674771209624
+    },
+    {
+      "date": "2024-10-20",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.21894372699672635,
+      "positive_ratio_ma7": 88.93939393939392,
+      "sentiment_avg_ma7": 0.32384083543101944
+    },
+    {
+      "date": "2024-10-21",
+      "review_count": 8,
+      "positive_ratio": 75.0,
+      "sentiment_avg": 0.21163046577503772,
+      "positive_ratio_ma7": 87.15367965367965,
+      "sentiment_avg_ma7": 0.3416927756152291
+    },
+    {
+      "date": "2024-10-22",
+      "review_count": 6,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": -0.12479708629849151,
+      "positive_ratio_ma7": 86.2012987012987,
+      "sentiment_avg_ma7": 0.2573651773293738
+    },
+    {
+      "date": "2024-10-23",
+      "review_count": 7,
+      "positive_ratio": 71.42857142857143,
+      "sentiment_avg": -0.02269973235138648,
+      "positive_ratio_ma7": 86.88157081014224,
+      "sentiment_avg_ma7": 0.22630976391853816
+    },
+    {
+      "date": "2024-10-24",
+      "review_count": 9,
+      "positive_ratio": 88.88888888888889,
+      "sentiment_avg": 0.41930014172897273,
+      "positive_ratio_ma7": 87.07998350855495,
+      "sentiment_avg_ma7": 0.21020891918822301
+    },
+    {
+      "date": "2024-10-25",
+      "review_count": 5,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.3986029965948422,
+      "positive_ratio_ma7": 84.22284065141208,
+      "sentiment_avg_ma7": 0.18064293943946672
+    },
+    {
+      "date": "2024-10-26",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.014613207662811512,
+      "positive_ratio_ma7": 85.52154195011339,
+      "sentiment_avg_ma7": 0.1593705314440732
+    },
+    {
+      "date": "2024-10-27",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.4408264399948106,
+      "positive_ratio_ma7": 85.52154195011339,
+      "sentiment_avg_ma7": 0.191068061872371
+    },
+    {
+      "date": "2024-10-28",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.2825321305008424,
+      "positive_ratio_ma7": 89.09297052154196,
+      "sentiment_avg_ma7": 0.2011968711189145
+    },
+    {
+      "date": "2024-10-29",
+      "review_count": 3,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.5806256354993349,
+      "positive_ratio_ma7": 91.47392290249434,
+      "sentiment_avg_ma7": 0.30197154566146117
+    },
+    {
+      "date": "2024-10-30",
+      "review_count": 9,
+      "positive_ratio": 77.77777777777779,
+      "sentiment_avg": 0.08950042897873513,
+      "positive_ratio_ma7": 92.38095238095238,
+      "sentiment_avg_ma7": 0.31800014013719274
+    },
+    {
+      "date": "2024-10-31",
+      "review_count": 10,
+      "positive_ratio": 90.0,
+      "sentiment_avg": -0.05084168176199294,
+      "positive_ratio_ma7": 92.53968253968253,
+      "sentiment_avg_ma7": 0.2508370224956263
+    },
+    {
+      "date": "2024-11-01",
+      "review_count": 8,
+      "positive_ratio": 100.0,
+      "sentiment_avg": -0.09783049330604754,
+      "positive_ratio_ma7": 95.39682539682539,
+      "sentiment_avg_ma7": 0.17991795250978487
+    },
+    {
+      "date": "2024-11-02",
+      "review_count": 21,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.28908326772976056,
+      "positive_ratio_ma7": 95.39682539682539,
+      "sentiment_avg_ma7": 0.21912796109077762
+    },
+    {
+      "date": "2024-11-03",
+      "review_count": 11,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.3117010878141757,
+      "positive_ratio_ma7": 95.39682539682539,
+      "sentiment_avg_ma7": 0.20068148220782975
+    },
+    {
+      "date": "2024-11-04",
+      "review_count": 8,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.5120899245316637,
+      "positive_ratio_ma7": 95.39682539682539,
+      "sentiment_avg_ma7": 0.23347545278366136
+    },
+    {
+      "date": "2024-11-05",
+      "review_count": 10,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.33678541398890166,
+      "positive_ratio_ma7": 92.53968253968253,
+      "sentiment_avg_ma7": 0.19864113542502806
+    },
+    {
+      "date": "2024-11-06",
+      "review_count": 6,
+      "positive_ratio": 66.66666666666666,
+      "sentiment_avg": 0.40963825715293584,
+      "positive_ratio_ma7": 90.95238095238096,
+      "sentiment_avg_ma7": 0.2443751108784853
+    },
+    {
+      "date": "2024-11-07",
+      "review_count": 7,
+      "positive_ratio": 71.42857142857143,
+      "sentiment_avg": 0.4576888343824699,
+      "positive_ratio_ma7": 88.29931972789116,
+      "sentiment_avg_ma7": 0.3170223274705514
+    },
+    {
+      "date": "2024-11-08",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.5742889992221482,
+      "positive_ratio_ma7": 88.29931972789116,
+      "sentiment_avg_ma7": 0.4130393978317222
+    },
+    {
+      "date": "2024-11-09",
+      "review_count": 13,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.13629546466010034,
+      "positive_ratio_ma7": 88.29931972789116,
+      "sentiment_avg_ma7": 0.39121256882177075
+    },
+    {
+      "date": "2024-11-10",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.7816375612807287,
+      "positive_ratio_ma7": 88.29931972789116,
+      "sentiment_avg_ma7": 0.458346350745564
+    },
+    {
+      "date": "2024-11-11",
+      "review_count": 7,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.4292769018210419,
+      "positive_ratio_ma7": 88.29931972789116,
+      "sentiment_avg_ma7": 0.44651591892976095
+    },
+    {
+      "date": "2024-11-12",
+      "review_count": 4,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.6513760280982649,
+      "positive_ratio_ma7": 91.156462585034,
+      "sentiment_avg_ma7": 0.49145743523109847
+    },
+    {
+      "date": "2024-11-13",
+      "review_count": 8,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.039468273558569064,
+      "positive_ratio_ma7": 94.13265306122447,
+      "sentiment_avg_ma7": 0.4385760090033319
+    },
+    {
+      "date": "2024-11-14",
+      "review_count": 4,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.8415798802373078,
+      "positive_ratio_ma7": 98.21428571428571,
+      "sentiment_avg_ma7": 0.4934175869825944
+    },
+    {
+      "date": "2024-11-15",
+      "review_count": 2,
+      "positive_ratio": 100.0,
+      "sentiment_avg": -0.007172673940658569,
+      "positive_ratio_ma7": 98.21428571428571,
+      "sentiment_avg_ma7": 0.41035163367362204
+    },
+    {
+      "date": "2024-11-16",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.8187641737577224,
+      "positive_ratio_ma7": 98.21428571428571,
+      "sentiment_avg_ma7": 0.5078471635447108
+    },
+    {
+      "date": "2024-11-17",
+      "review_count": 10,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.5448109652774853,
+      "positive_ratio_ma7": 95.35714285714286,
+      "sentiment_avg_ma7": 0.47401479268710467
+    },
+    {
+      "date": "2024-11-18",
+      "review_count": 6,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.02321185309738057,
+      "positive_ratio_ma7": 95.35714285714286,
+      "sentiment_avg_ma7": 0.41600550001229586
+    },
+    {
+      "date": "2024-11-19",
+      "review_count": 2,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.8577345974940389,
+      "positive_ratio_ma7": 95.35714285714286,
+      "sentiment_avg_ma7": 0.44548529564026357
+    },
+    {
+      "date": "2024-11-20",
+      "review_count": 2,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.4940211995524189,
+      "positive_ratio_ma7": 97.14285714285714,
+      "sentiment_avg_ma7": 0.5104214279250993
+    },
+    {
+      "date": "2024-11-21",
+      "review_count": 3,
+      "positive_ratio": 100.0,
+      "sentiment_avg": -0.003280842882062096,
+      "positive_ratio_ma7": 97.14285714285714,
+      "sentiment_avg_ma7": 0.38972703890804644
+    },
+    {
+      "date": "2024-11-22",
+      "review_count": 4,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.47608080570209,
+      "positive_ratio_ma7": 97.14285714285714,
+      "sentiment_avg_ma7": 0.45876325028558196
+    },
+    {
+      "date": "2024-11-23",
+      "review_count": 8,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.23584700650469753,
+      "positive_ratio_ma7": 95.35714285714286,
+      "sentiment_avg_ma7": 0.37548936924943555
+    },
+    {
+      "date": "2024-11-24",
+      "review_count": 6,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": 0.6237786290374981,
+      "positive_ratio_ma7": 95.83333333333334,
+      "sentiment_avg_ma7": 0.38677046407229454
+    },
+    {
+      "date": "2024-11-25",
+      "review_count": 3,
+      "positive_ratio": 66.66666666666666,
+      "sentiment_avg": -0.38378459454540265,
+      "positive_ratio_ma7": 91.07142857142857,
+      "sentiment_avg_ma7": 0.32862811440903983
+    },
+    {
+      "date": "2024-11-26",
+      "review_count": 6,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.7108221045382311,
+      "positive_ratio_ma7": 91.07142857142857,
+      "sentiment_avg_ma7": 0.307640615415353
+    },
+    {
+      "date": "2024-11-27",
+      "review_count": 49,
+      "positive_ratio": 97.95918367346938,
+      "sentiment_avg": 0.11096406296146184,
+      "positive_ratio_ma7": 90.7798833819242,
+      "sentiment_avg_ma7": 0.2529181673309306
+    },
+    {
+      "date": "2024-11-28",
+      "review_count": 193,
+      "positive_ratio": 97.40932642487047,
+      "sentiment_avg": 0.3991710714807132,
+      "positive_ratio_ma7": 90.40978715690571,
+      "sentiment_avg_ma7": 0.3104112979541842
+    },
+    {
+      "date": "2024-11-29",
+      "review_count": 101,
+      "positive_ratio": 98.01980198019803,
+      "sentiment_avg": 0.43798594607863367,
+      "positive_ratio_ma7": 90.1269017255054,
+      "sentiment_avg_ma7": 0.30496917515083327
+    },
+    {
+      "date": "2024-11-30",
+      "review_count": 98,
+      "positive_ratio": 97.95918367346938,
+      "sentiment_avg": 0.4858579116811516,
+      "positive_ratio_ma7": 91.62107082171532,
+      "sentiment_avg_ma7": 0.34068501874746954
+    },
+    {
+      "date": "2024-12-01",
+      "review_count": 73,
+      "positive_ratio": 97.26027397260275,
+      "sentiment_avg": 0.29684312526222806,
+      "positive_ratio_ma7": 93.61063377018239,
+      "sentiment_avg_ma7": 0.2939799467795738
+    },
+    {
+      "date": "2024-12-02",
+      "review_count": 50,
+      "positive_ratio": 96.0,
+      "sentiment_avg": 0.32882909561042795,
+      "positive_ratio_ma7": 97.80110996065858,
+      "sentiment_avg_ma7": 0.395781902516121
+    },
+    {
+      "date": "2024-12-03",
+      "review_count": 51,
+      "positive_ratio": 98.0392156862745,
+      "sentiment_avg": 0.4630643087280473,
+      "positive_ratio_ma7": 97.52099791584065,
+      "sentiment_avg_ma7": 0.36038793168609484
+    },
+    {
+      "date": "2024-12-04",
+      "review_count": 79,
+      "positive_ratio": 89.87341772151899,
+      "sentiment_avg": 0.461308565122883,
+      "positive_ratio_ma7": 96.36588849413344,
+      "sentiment_avg_ma7": 0.4104371462805836
+    },
+    {
+      "date": "2024-12-05",
+      "review_count": 41,
+      "positive_ratio": 75.60975609756098,
+      "sentiment_avg": 0.24688847248734455,
+      "positive_ratio_ma7": 93.25166416166066,
+      "sentiment_avg_ma7": 0.38868248928153093
+    },
+    {
+      "date": "2024-12-06",
+      "review_count": 40,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.3597599805471937,
+      "positive_ratio_ma7": 90.67740673591808,
+      "sentiment_avg_ma7": 0.3775073513484681
+    },
+    {
+      "date": "2024-12-07",
+      "review_count": 32,
+      "positive_ratio": 84.375,
+      "sentiment_avg": 0.32673181845464927,
+      "positive_ratio_ma7": 88.73680906827961,
+      "sentiment_avg_ma7": 0.35477505231611056
+    },
+    {
+      "date": "2024-12-08",
+      "review_count": 25,
+      "positive_ratio": 76.0,
+      "sentiment_avg": 0.3216142030474799,
+      "positive_ratio_ma7": 85.6996270721935,
+      "sentiment_avg_ma7": 0.3583137777140037
+    },
+    {
+      "date": "2024-12-09",
+      "review_count": 15,
+      "positive_ratio": 66.66666666666666,
+      "sentiment_avg": 0.2826754832665865,
+      "positive_ratio_ma7": 81.5091508817173,
+      "sentiment_avg_ma7": 0.35172040452202635
+    },
+    {
+      "date": "2024-12-10",
+      "review_count": 16,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.5005332097492978,
+      "positive_ratio_ma7": 80.00354864082094,
+      "sentiment_avg_ma7": 0.3570731046679193
+    },
+    {
+      "date": "2024-12-11",
+      "review_count": 13,
+      "positive_ratio": 84.61538461538461,
+      "sentiment_avg": 0.28324470329029067,
+      "positive_ratio_ma7": 79.25240105423032,
+      "sentiment_avg_ma7": 0.33163541012040604
+    },
+    {
+      "date": "2024-12-12",
+      "review_count": 11,
+      "positive_ratio": 90.9090909090909,
+      "sentiment_avg": 0.30383324802841777,
+      "positive_ratio_ma7": 81.4380203130203,
+      "sentiment_avg_ma7": 0.33977037805484506
+    },
+    {
+      "date": "2024-12-13",
+      "review_count": 23,
+      "positive_ratio": 86.95652173913044,
+      "sentiment_avg": 0.2980368606624536,
+      "positive_ratio_ma7": 82.43180913289609,
+      "sentiment_avg_ma7": 0.33095278949988227
+    },
+    {
+      "date": "2024-12-14",
+      "review_count": 17,
+      "positive_ratio": 88.23529411764706,
+      "sentiment_avg": 0.21479037782832353,
+      "positive_ratio_ma7": 82.98327972113137,
+      "sentiment_avg_ma7": 0.3149611551246928
+    },
+    {
+      "date": "2024-12-15",
+      "review_count": 12,
+      "positive_ratio": 58.333333333333336,
+      "sentiment_avg": 0.18243721140708524,
+      "positive_ratio_ma7": 80.45947019732185,
+      "sentiment_avg_ma7": 0.2950787277474936
+    },
+    {
+      "date": "2024-12-16",
+      "review_count": 7,
+      "positive_ratio": 71.42857142857143,
+      "sentiment_avg": -0.09191269948987434,
+      "positive_ratio_ma7": 81.1397423061654,
+      "sentiment_avg_ma7": 0.24156613021085632
+    },
+    {
+      "date": "2024-12-17",
+      "review_count": 11,
+      "positive_ratio": 81.81818181818183,
+      "sentiment_avg": 0.4575437367291206,
+      "positive_ratio_ma7": 80.32805399447709,
+      "sentiment_avg_ma7": 0.23542477692225958
+    },
+    {
+      "date": "2024-12-18",
+      "review_count": 7,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.4923297805458481,
+      "positive_ratio_ma7": 82.52585619227929,
+      "sentiment_avg_ma7": 0.26529407367305347
+    },
+    {
+      "date": "2024-12-19",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.6982531885294875,
+      "positive_ratio_ma7": 83.8245574909806,
+      "sentiment_avg_ma7": 0.32163977945892064
+    },
+    {
+      "date": "2024-12-20",
+      "review_count": 7,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.7145731116578611,
+      "positive_ratio_ma7": 85.68791152824767,
+      "sentiment_avg_ma7": 0.38114495817255023
+    },
+    {
+      "date": "2024-12-21",
+      "review_count": 14,
+      "positive_ratio": 92.85714285714286,
+      "sentiment_avg": 0.3776178189275844,
+      "positive_ratio_ma7": 86.34817563388992,
+      "sentiment_avg_ma7": 0.40440602118673036
+    },
+    {
+      "date": "2024-12-22",
+      "review_count": 9,
+      "positive_ratio": 66.66666666666666,
+      "sentiment_avg": 0.26489744459862274,
+      "positive_ratio_ma7": 87.5386518243661,
+      "sentiment_avg_ma7": 0.4161860544998071
+    },
+    {
+      "date": "2024-12-23",
+      "review_count": 11,
+      "positive_ratio": 72.72727272727273,
+      "sentiment_avg": 0.2780273678222063,
+      "positive_ratio_ma7": 87.72418058132345,
+      "sentiment_avg_ma7": 0.4690346355443901
+    },
+    {
+      "date": "2024-12-24",
+      "review_count": 9,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.5634172982366207,
+      "positive_ratio_ma7": 90.32158317872604,
+      "sentiment_avg_ma7": 0.4841594300454616
+    },
+    {
+      "date": "2024-12-25",
+      "review_count": 17,
+      "positive_ratio": 82.35294117647058,
+      "sentiment_avg": 0.4145282920198511,
+      "positive_ratio_ma7": 87.8005747753647,
+      "sentiment_avg_ma7": 0.4730449316846048
+    },
+    {
+      "date": "2024-12-26",
+      "review_count": 16,
+      "positive_ratio": 81.25,
+      "sentiment_avg": 0.15547918718924317,
+      "positive_ratio_ma7": 85.12200334679326,
+      "sentiment_avg_ma7": 0.39550578863599856
+    },
+    {
+      "date": "2024-12-27",
+      "review_count": 14,
+      "positive_ratio": 71.42857142857143,
+      "sentiment_avg": 0.41844502139853684,
+      "positive_ratio_ma7": 81.04037069373204,
+      "sentiment_avg_ma7": 0.35320177574180933
+    },
+    {
+      "date": "2024-12-28",
+      "review_count": 19,
+      "positive_ratio": 84.21052631578947,
+      "sentiment_avg": 0.29910144036635755,
+      "positive_ratio_ma7": 79.80513975925298,
+      "sentiment_avg_ma7": 0.34198515023306264
+    },
+    {
+      "date": "2024-12-29",
+      "review_count": 18,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": 0.4079897137768841,
+      "positive_ratio_ma7": 82.18609214020536,
+      "sentiment_avg_ma7": 0.36242690297281427
+    },
+    {
+      "date": "2024-12-30",
+      "review_count": 16,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.37489957341070745,
+      "positive_ratio_ma7": 84.29648175059496,
+      "sentiment_avg_ma7": 0.37626578948545725
+    },
+    {
+      "date": "2024-12-31",
+      "review_count": 10,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.37594023481844513,
+      "positive_ratio_ma7": 81.43933889345212,
+      "sentiment_avg_ma7": 0.34948335185428936
+    },
+    {
+      "date": "2025-01-01",
+      "review_count": 14,
+      "positive_ratio": 85.71428571428571,
+      "sentiment_avg": 0.537047644720623,
+      "positive_ratio_ma7": 81.91953097028285,
+      "sentiment_avg_ma7": 0.3669861165258282
+    },
+    {
+      "date": "2025-01-02",
+      "review_count": 11,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.22151467663903326,
+      "positive_ratio_ma7": 84.59810239885428,
+      "sentiment_avg_ma7": 0.37641975787579823
+    },
+    {
+      "date": "2025-01-03",
+      "review_count": 9,
+      "positive_ratio": 88.88888888888889,
+      "sentiment_avg": 0.38556872563693056,
+      "positive_ratio_ma7": 87.0924334646139,
+      "sentiment_avg_ma7": 0.3717231441955687
+    },
+    {
+      "date": "2025-01-04",
+      "review_count": 13,
+      "positive_ratio": 61.53846153846154,
+      "sentiment_avg": 0.24787879503747962,
+      "positive_ratio_ma7": 83.85356706785278,
+      "sentiment_avg_ma7": 0.36440562343430044
+    },
+    {
+      "date": "2025-01-05",
+      "review_count": 18,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": 0.513519023104224,
+      "positive_ratio_ma7": 83.85356706785278,
+      "sentiment_avg_ma7": 0.37948123905249187
+    },
+    {
+      "date": "2025-01-06",
+      "review_count": 10,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.7718123143348119,
+      "positive_ratio_ma7": 85.63928135356707,
+      "sentiment_avg_ma7": 0.43618305918450684
+    },
+    {
+      "date": "2025-01-07",
+      "review_count": 11,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.5502659360402978,
+      "positive_ratio_ma7": 88.49642421070993,
+      "sentiment_avg_ma7": 0.46108673078762863
+    },
+    {
+      "date": "2025-01-08",
+      "review_count": 4,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.5103638429987006,
+      "positive_ratio_ma7": 90.53724053724054,
+      "sentiment_avg_ma7": 0.4572747591130683
+    },
+    {
+      "date": "2025-01-09",
+      "review_count": 7,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.976321587256515,
+      "positive_ratio_ma7": 90.53724053724054,
+      "sentiment_avg_ma7": 0.5651043177727085
+    },
+    {
+      "date": "2025-01-10",
+      "review_count": 17,
+      "positive_ratio": 70.58823529411765,
+      "sentiment_avg": 0.2074143548781937,
+      "positive_ratio_ma7": 87.92286145227322,
+      "sentiment_avg_ma7": 0.5396536933786032
+    },
+    {
+      "date": "2025-01-11",
+      "review_count": 5,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.45027286503685726,
+      "positive_ratio_ma7": 90.56022408963587,
+      "sentiment_avg_ma7": 0.5685671319499429
+    },
+    {
+      "date": "2025-01-12",
+      "review_count": 12,
+      "positive_ratio": 75.0,
+      "sentiment_avg": 0.06871961125002071,
+      "positive_ratio_ma7": 89.36974789915966,
+      "sentiment_avg_ma7": 0.5050243588279139
+    },
+    {
+      "date": "2025-01-13",
+      "review_count": 6,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.22304338216781616,
+      "positive_ratio_ma7": 89.36974789915966,
+      "sentiment_avg_ma7": 0.4266287970897716
+    },
+    {
+      "date": "2025-01-14",
+      "review_count": 2,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.9998518824577332,
+      "positive_ratio_ma7": 89.36974789915966,
+      "sentiment_avg_ma7": 0.4908553608636909
+    },
+    {
+      "date": "2025-01-15",
+      "review_count": 7,
+      "positive_ratio": 57.14285714285714,
+      "sentiment_avg": 0.2676518750050873,
+      "positive_ratio_ma7": 83.24729891956783,
+      "sentiment_avg_ma7": 0.4561822225788891
+    },
+    {
+      "date": "2025-01-16",
+      "review_count": 8,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.5750812421341268,
+      "positive_ratio_ma7": 81.46158463385355,
+      "sentiment_avg_ma7": 0.3988621732756907
+    },
+    {
+      "date": "2025-01-17",
+      "review_count": 6,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.7166776465471588,
+      "positive_ratio_ma7": 85.66326530612244,
+      "sentiment_avg_ma7": 0.47161407208554296
+    },
+    {
+      "date": "2025-01-18",
+      "review_count": 5,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.3062473149430716,
+      "positive_ratio_ma7": 85.66326530612244,
+      "sentiment_avg_ma7": 0.45103899350071636
+    },
+    {
+      "date": "2025-01-19",
+      "review_count": 7,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.35223561289302435,
+      "positive_ratio_ma7": 89.23469387755101,
+      "sentiment_avg_ma7": 0.4915412794497169
+    },
+    {
+      "date": "2025-01-20",
+      "review_count": 10,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.4647546612058334,
+      "positive_ratio_ma7": 89.23469387755101,
+      "sentiment_avg_ma7": 0.5260714621694336
+    },
+    {
+      "date": "2025-01-21",
+      "review_count": 8,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.4426116885395771,
+      "positive_ratio_ma7": 87.44897959183673,
+      "sentiment_avg_ma7": 0.4464657201811256
+    },
+    {
+      "date": "2025-01-22",
+      "review_count": 6,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.6514722074599959,
+      "positive_ratio_ma7": 93.57142857142857,
+      "sentiment_avg_ma7": 0.5012971962461126
+    },
+    {
+      "date": "2025-01-23",
+      "review_count": 7,
+      "positive_ratio": 85.71428571428571,
+      "sentiment_avg": 0.5288492785896289,
+      "positive_ratio_ma7": 93.31632653061224,
+      "sentiment_avg_ma7": 0.49469263002547
+    },
+    {
+      "date": "2025-01-24",
+      "review_count": 5,
+      "positive_ratio": 80.0,
+      "sentiment_avg": -0.23595463316371315,
+      "positive_ratio_ma7": 90.45918367346938,
+      "sentiment_avg_ma7": 0.3586023043524883
+    },
+    {
+      "date": "2025-01-25",
+      "review_count": 6,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": 0.5069221694355847,
+      "positive_ratio_ma7": 90.93537414965986,
+      "sentiment_avg_ma7": 0.38727014070856164
+    },
+    {
+      "date": "2025-01-26",
+      "review_count": 6,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": 0.4151660437118632,
+      "positive_ratio_ma7": 88.55442176870748,
+      "sentiment_avg_ma7": 0.39626020225411007
+    },
+    {
+      "date": "2025-01-27",
+      "review_count": 3,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.9644393538597331,
+      "positive_ratio_ma7": 88.55442176870748,
+      "sentiment_avg_ma7": 0.46764372977609575
+    },
+    {
+      "date": "2025-01-28",
+      "review_count": 5,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.2328875579827263,
+      "positive_ratio_ma7": 87.48299319727892,
+      "sentiment_avg_ma7": 0.4376831396965456
+    },
+    {
+      "date": "2025-01-29",
+      "review_count": 17,
+      "positive_ratio": 94.11764705882352,
+      "sentiment_avg": 0.5096246986181827,
+      "positive_ratio_ma7": 86.64265706282514,
+      "sentiment_avg_ma7": 0.4174192098620008
+    },
+    {
+      "date": "2025-01-30",
+      "review_count": 38,
+      "positive_ratio": 89.47368421052632,
+      "sentiment_avg": 0.15931982182122895,
+      "positive_ratio_ma7": 87.1797139908595,
+      "sentiment_avg_ma7": 0.3646292874665152
+    },
+    {
+      "date": "2025-01-31",
+      "review_count": 45,
+      "positive_ratio": 68.88888888888889,
+      "sentiment_avg": 0.14081974328679184,
+      "positive_ratio_ma7": 85.59241240355792,
+      "sentiment_avg_ma7": 0.41845419838801584
+    },
+    {
+      "date": "2025-02-01",
+      "review_count": 30,
+      "positive_ratio": 63.33333333333333,
+      "sentiment_avg": -0.0012115906427341541,
+      "positive_ratio_ma7": 82.73526954641507,
+      "sentiment_avg_ma7": 0.34586366123397033
+    },
+    {
+      "date": "2025-02-02",
+      "review_count": 34,
+      "positive_ratio": 64.70588235294117,
+      "sentiment_avg": 0.15212367171606228,
+      "positive_ratio_ma7": 80.07420512064473,
+      "sentiment_avg_ma7": 0.30828617952028436
+    },
+    {
+      "date": "2025-02-03",
+      "review_count": 30,
+      "positive_ratio": 86.66666666666667,
+      "sentiment_avg": 0.36119991008258795,
+      "positive_ratio_ma7": 78.16944321588285,
+      "sentiment_avg_ma7": 0.22210911612354942
+    },
+    {
+      "date": "2025-02-04",
+      "review_count": 23,
+      "positive_ratio": 82.6086956521739,
+      "sentiment_avg": 0.3603713327937335,
+      "positive_ratio_ma7": 78.54211402333625,
+      "sentiment_avg_ma7": 0.2403210839536933
+    },
+    {
+      "date": "2025-02-05",
+      "review_count": 13,
+      "positive_ratio": 76.92307692307693,
+      "sentiment_avg": 0.3235606992548124,
+      "positive_ratio_ma7": 76.08574686108673,
+      "sentiment_avg_ma7": 0.21374051261606897
+    },
+    {
+      "date": "2025-02-06",
+      "review_count": 13,
+      "positive_ratio": 76.92307692307693,
+      "sentiment_avg": 0.26937839312067113,
+      "positive_ratio_ma7": 74.29280296287969,
+      "sentiment_avg_ma7": 0.22946316565884642
+    },
+    {
+      "date": "2025-02-07",
+      "review_count": 15,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.348853059615271,
+      "positive_ratio_ma7": 75.88010455018129,
+      "sentiment_avg_ma7": 0.2591822108486292
+    },
+    {
+      "date": "2025-02-08",
+      "review_count": 16,
+      "positive_ratio": 68.75,
+      "sentiment_avg": 0.1937171960024754,
+      "positive_ratio_ma7": 76.65391407399079,
+      "sentiment_avg_ma7": 0.28702918036937336
+    },
+    {
+      "date": "2025-02-09",
+      "review_count": 15,
+      "positive_ratio": 93.33333333333333,
+      "sentiment_avg": 0.47797837577085356,
+      "positive_ratio_ma7": 80.74354992833254,
+      "sentiment_avg_ma7": 0.3335798523772007
+    },
+    {
+      "date": "2025-02-10",
+      "review_count": 12,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.5365500541579497,
+      "positive_ratio_ma7": 82.64831183309445,
+      "sentiment_avg_ma7": 0.3586298729593952
+    },
+    {
+      "date": "2025-02-11",
+      "review_count": 14,
+      "positive_ratio": 85.71428571428571,
+      "sentiment_avg": 0.3521205976869801,
+      "positive_ratio_ma7": 83.09196755625327,
+      "sentiment_avg_ma7": 0.35745119651557333
+    },
+    {
+      "date": "2025-02-12",
+      "review_count": 3,
+      "positive_ratio": 66.66666666666666,
+      "sentiment_avg": 0.14332983713298572,
+      "positive_ratio_ma7": 81.6267660910518,
+      "sentiment_avg_ma7": 0.33170393049816954
+    },
+    {
+      "date": "2025-02-13",
+      "review_count": 6,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": -0.0025195500706623464,
+      "positive_ratio_ma7": 82.54251700680273,
+      "sentiment_avg_ma7": 0.29286136718512185
+    },
+    {
+      "date": "2025-02-14",
+      "review_count": 6,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.4128274599979062,
+      "positive_ratio_ma7": 85.39965986394557,
+      "sentiment_avg_ma7": 0.3020005672397841
+    },
+    {
+      "date": "2025-02-15",
+      "review_count": 9,
+      "positive_ratio": 77.77777777777779,
+      "sentiment_avg": 0.45416084421582703,
+      "positive_ratio_ma7": 86.68934240362812,
+      "sentiment_avg_ma7": 0.3392068026988343
+    },
+    {
+      "date": "2025-02-16",
+      "review_count": 8,
+      "positive_ratio": 62.5,
+      "sentiment_avg": 0.43055494251651827,
+      "positive_ratio_ma7": 82.28458049886622,
+      "sentiment_avg_ma7": 0.33243202651964354
+    },
+    {
+      "date": "2025-02-17",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.40315935664809777,
+      "positive_ratio_ma7": 82.28458049886622,
+      "sentiment_avg_ma7": 0.3133762125896647
+    },
+    {
+      "date": "2025-02-18",
+      "review_count": 5,
+      "positive_ratio": 60.0,
+      "sentiment_avg": 0.039225075533333834,
+      "positive_ratio_ma7": 78.61111111111111,
+      "sentiment_avg_ma7": 0.26867685228200094
+    },
+    {
+      "date": "2025-02-19",
+      "review_count": 8,
+      "positive_ratio": 100.0,
+      "sentiment_avg": -0.30206781350275114,
+      "positive_ratio_ma7": 83.37301587301589,
+      "sentiment_avg_ma7": 0.20504861647689565
+    },
+    {
+      "date": "2025-02-20",
+      "review_count": 5,
+      "positive_ratio": 60.0,
+      "sentiment_avg": 0.31951596859321474,
+      "positive_ratio_ma7": 80.03968253968254,
+      "sentiment_avg_ma7": 0.2510536905717352
+    },
+    {
+      "date": "2025-02-21",
+      "review_count": 8,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.38220443678239957,
+      "positive_ratio_ma7": 80.03968253968254,
+      "sentiment_avg_ma7": 0.24667897296952002
+    },
+    {
+      "date": "2025-02-22",
+      "review_count": 10,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.5097342067502368,
+      "positive_ratio_ma7": 83.21428571428571,
+      "sentiment_avg_ma7": 0.25461802476015
+    },
+    {
+      "date": "2025-02-23",
+      "review_count": 7,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.24469988256786573,
+      "positive_ratio_ma7": 88.57142857142857,
+      "sentiment_avg_ma7": 0.22806730191034247
+    },
+    {
+      "date": "2025-02-24",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.4530701943019948,
+      "positive_ratio_ma7": 88.57142857142857,
+      "sentiment_avg_ma7": 0.2351974215751849
+    },
+    {
+      "date": "2025-02-25",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.06070180404385543,
+      "positive_ratio_ma7": 94.28571428571429,
+      "sentiment_avg_ma7": 0.23826552564811654
+    },
+    {
+      "date": "2025-02-26",
+      "review_count": 1,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.052465563615616606,
+      "positive_ratio_ma7": 94.28571428571429,
+      "sentiment_avg_ma7": 0.2889131509507405
+    },
+    {
+      "date": "2025-02-27",
+      "review_count": 8,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.23529856263426283,
+      "positive_ratio_ma7": 98.21428571428571,
+      "sentiment_avg_ma7": 0.27688209295660454
+    },
+    {
+      "date": "2025-02-28",
+      "review_count": 4,
+      "positive_ratio": 50.0,
+      "sentiment_avg": 0.19086269921725457,
+      "positive_ratio_ma7": 91.07142857142857,
+      "sentiment_avg_ma7": 0.24954755901872666
+    },
+    {
+      "date": "2025-03-01",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.5027014919928003,
+      "positive_ratio_ma7": 91.07142857142857,
+      "sentiment_avg_ma7": 0.24854288548195003
+    },
+    {
+      "date": "2025-03-02",
+      "review_count": 6,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.18528320185423494,
+      "positive_ratio_ma7": 91.07142857142857,
+      "sentiment_avg_ma7": 0.24005478823714563
+    },
+    {
+      "date": "2025-03-03",
+      "review_count": 7,
+      "positive_ratio": 85.71428571428571,
+      "sentiment_avg": 0.6827120136108398,
+      "positive_ratio_ma7": 89.03061224489797,
+      "sentiment_avg_ma7": 0.2728607624241235
+    },
+    {
+      "date": "2025-03-04",
+      "review_count": 7,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.5261182788053917,
+      "positive_ratio_ma7": 89.03061224489797,
+      "sentiment_avg_ma7": 0.33934883024720014
+    },
+    {
+      "date": "2025-03-05",
+      "review_count": 5,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.2680038988919763,
+      "positive_ratio_ma7": 86.1734693877551,
+      "sentiment_avg_ma7": 0.3701400210009658
+    },
+    {
+      "date": "2025-03-06",
+      "review_count": 5,
+      "positive_ratio": 60.0,
+      "sentiment_avg": -0.11697171072427062,
+      "positive_ratio_ma7": 82.24489795918369,
+      "sentiment_avg_ma7": 0.319815696235461
+    },
+    {
+      "date": "2025-03-07",
+      "review_count": 4,
+      "positive_ratio": 75.0,
+      "sentiment_avg": 0.508570813283157,
+      "positive_ratio_ma7": 85.81632653061226,
+      "sentiment_avg_ma7": 0.3652025696734471
+    },
+    {
+      "date": "2025-03-08",
+      "review_count": 3,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.08676926382963002,
+      "positive_ratio_ma7": 85.81632653061226,
+      "sentiment_avg_ma7": 0.30578367993585137
+    },
+    {
+      "date": "2025-03-09",
+      "review_count": 4,
+      "positive_ratio": 100.0,
+      "sentiment_avg": -0.029037891262191598,
+      "positive_ratio_ma7": 85.81632653061226,
+      "sentiment_avg_ma7": 0.27516638091921897
+    },
+    {
+      "date": "2025-03-10",
+      "review_count": 1,
+      "positive_ratio": 100.0,
+      "sentiment_avg": -0.041982628773906315,
+      "positive_ratio_ma7": 87.85714285714286,
+      "sentiment_avg_ma7": 0.17163857486425524
+    },
+    {
+      "date": "2025-03-11",
+      "review_count": 3,
+      "positive_ratio": 100.0,
+      "sentiment_avg": -0.0025978159700167183,
+      "positive_ratio_ma7": 87.85714285714286,
+      "sentiment_avg_ma7": 0.09610770418205401
+    },
+    {
+      "date": "2025-03-12",
+      "review_count": 2,
+      "positive_ratio": 50.0,
+      "sentiment_avg": -0.07990676164627075,
+      "positive_ratio_ma7": 83.57142857142857,
+      "sentiment_avg_ma7": 0.04640618124801872
+    },
+    {
+      "date": "2025-03-13",
+      "review_count": 1,
+      "positive_ratio": 0.0,
+      "sentiment_avg": 0.6829482389235304,
+      "positive_ratio_ma7": 75.0,
+      "sentiment_avg_ma7": 0.16068045976913314
+    },
+    {
+      "date": "2025-03-14",
+      "review_count": 4,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.64761770038844,
+      "positive_ratio_ma7": 78.57142857142857,
+      "sentiment_avg_ma7": 0.18054430078417358
+    },
+    {
+      "date": "2025-03-15",
+      "review_count": 12,
+      "positive_ratio": 91.66666666666666,
+      "sentiment_avg": 0.5644306722987884,
+      "positive_ratio_ma7": 77.38095238095238,
+      "sentiment_avg_ma7": 0.2487816448511962
+    },
+    {
+      "date": "2025-03-16",
+      "review_count": 8,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.13056652270583347,
+      "positive_ratio_ma7": 75.59523809523809,
+      "sentiment_avg_ma7": 0.2715822754180569
+    },
+    {
+      "date": "2025-03-17",
+      "review_count": 8,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.46905014237942877,
+      "positive_ratio_ma7": 75.59523809523809,
+      "sentiment_avg_ma7": 0.3445869570113905
+    },
+    {
+      "date": "2025-03-18",
+      "review_count": 11,
+      "positive_ratio": 81.81818181818183,
+      "sentiment_avg": 0.2538988550577747,
+      "positive_ratio_ma7": 72.9978354978355,
+      "sentiment_avg_ma7": 0.38122933858678926
+    },
+    {
+      "date": "2025-03-19",
+      "review_count": 8,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.28328483562225726,
+      "positive_ratio_ma7": 78.35497835497836,
+      "sentiment_avg_ma7": 0.4331138524822933
+    },
+    {
+      "date": "2025-03-20",
+      "review_count": 9,
+      "positive_ratio": 88.88888888888889,
+      "sentiment_avg": 0.36651811500074544,
+      "positive_ratio_ma7": 91.05339105339105,
+      "sentiment_avg_ma7": 0.38790954906475256
+    },
+    {
+      "date": "2025-03-21",
+      "review_count": 7,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.33924440652235105,
+      "positive_ratio_ma7": 91.05339105339105,
+      "sentiment_avg_ma7": 0.34385622136959704
+    },
+    {
+      "date": "2025-03-22",
+      "review_count": 4,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.5269370041635277,
+      "positive_ratio_ma7": 92.24386724386726,
+      "sentiment_avg_ma7": 0.3384999830645598
+    },
+    {
+      "date": "2025-03-23",
+      "review_count": 11,
+      "positive_ratio": 81.81818181818183,
+      "sentiment_avg": 0.46843801247484007,
+      "positive_ratio_ma7": 91.43217893217893,
+      "sentiment_avg_ma7": 0.38676733874584646
+    },
+    {
+      "date": "2025-03-24",
+      "review_count": 6,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.3791240471905401,
+      "positive_ratio_ma7": 91.43217893217893,
+      "sentiment_avg_ma7": 0.3739207537188624
+    },
+    {
+      "date": "2025-03-25",
+      "review_count": 3,
+      "positive_ratio": 66.66666666666666,
+      "sentiment_avg": 0.47564220970030596,
+      "positive_ratio_ma7": 89.26767676767678,
+      "sentiment_avg_ma7": 0.40559837581065256
+    },
+    {
+      "date": "2025-03-26",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.37335521658495346,
+      "positive_ratio_ma7": 91.05339105339105,
+      "sentiment_avg_ma7": 0.4184655730910377
+    },
+    {
+      "date": "2025-03-27",
+      "review_count": 19,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.5469823555616927,
+      "positive_ratio_ma7": 92.64069264069265,
+      "sentiment_avg_ma7": 0.44424617888545875
+    },
+    {
+      "date": "2025-03-28",
+      "review_count": 15,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.46943832122164614,
+      "positive_ratio_ma7": 89.78354978354979,
+      "sentiment_avg_ma7": 0.4628453095567866
+    },
+    {
+      "date": "2025-03-29",
+      "review_count": 9,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.701348325097428,
+      "positive_ratio_ma7": 89.78354978354979,
+      "sentiment_avg_ma7": 0.4877612125473438
+    },
+    {
+      "date": "2025-03-30",
+      "review_count": 16,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.34703751648964093,
+      "positive_ratio_ma7": 92.3809523809524,
+      "sentiment_avg_ma7": 0.4704182845494582
+    },
+    {
+      "date": "2025-03-31",
+      "review_count": 14,
+      "positive_ratio": 78.57142857142857,
+      "sentiment_avg": 0.14019688733976807,
+      "positive_ratio_ma7": 89.31972789115648,
+      "sentiment_avg_ma7": 0.4362858331422051
+    },
+    {
+      "date": "2025-04-01",
+      "review_count": 7,
+      "positive_ratio": 85.71428571428571,
+      "sentiment_avg": 0.44822733898468464,
+      "positive_ratio_ma7": 92.04081632653062,
+      "sentiment_avg_ma7": 0.4323694230399734
+    },
+    {
+      "date": "2025-04-02",
+      "review_count": 6,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": 0.3308329395811072,
+      "positive_ratio_ma7": 89.65986394557822,
+      "sentiment_avg_ma7": 0.42629481203942404
+    },
+    {
+      "date": "2025-04-03",
+      "review_count": 4,
+      "positive_ratio": 100.0,
+      "sentiment_avg": -0.2220691049414123,
+      "positive_ratio_ma7": 89.65986394557824,
+      "sentiment_avg_ma7": 0.3164303176818376
+    },
+    {
+      "date": "2025-04-04",
+      "review_count": 12,
+      "positive_ratio": 66.66666666666666,
+      "sentiment_avg": 0.21464939108148173,
+      "positive_ratio_ma7": 87.75510204081634,
+      "sentiment_avg_ma7": 0.2800318990903855
+    },
+    {
+      "date": "2025-04-05",
+      "review_count": 8,
+      "positive_ratio": 87.5,
+      "sentiment_avg": 0.7164501297807078,
+      "positive_ratio_ma7": 85.96938775510203,
+      "sentiment_avg_ma7": 0.28218929975942547
+    },
+    {
+      "date": "2025-04-06",
+      "review_count": 9,
+      "positive_ratio": 88.88888888888889,
+      "sentiment_avg": 0.5480974646057365,
+      "positive_ratio_ma7": 84.38208616780045,
+      "sentiment_avg_ma7": 0.3109121494902963
+    },
+    {
+      "date": "2025-04-07",
+      "review_count": 3,
+      "positive_ratio": 66.66666666666666,
+      "sentiment_avg": -0.029939777135307304,
+      "positive_ratio_ma7": 82.6814058956916,
+      "sentiment_avg_ma7": 0.2866069117081426
+    },
+    {
+      "date": "2025-04-08",
+      "review_count": 3,
+      "positive_ratio": 66.66666666666666,
+      "sentiment_avg": 0.00036081215072769623,
+      "positive_ratio_ma7": 79.96031746031746,
+      "sentiment_avg_ma7": 0.22262597930329164
+    },
+    {
+      "date": "2025-04-09",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.7157027131632755,
+      "positive_ratio_ma7": 82.34126984126983,
+      "sentiment_avg_ma7": 0.2776073755293157
+    },
+    {
+      "date": "2025-04-10",
+      "review_count": 6,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.7424656530319624,
+      "positive_ratio_ma7": 82.34126984126983,
+      "sentiment_avg_ma7": 0.4153980552397978
+    },
+    {
+      "date": "2025-04-11",
+      "review_count": 7,
+      "positive_ratio": 85.71428571428571,
+      "sentiment_avg": 0.48674755135519915,
+      "positive_ratio_ma7": 85.06235827664399,
+      "sentiment_avg_ma7": 0.45426922099318595
+    },
+    {
+      "date": "2025-04-12",
+      "review_count": 10,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.15655804486375122,
+      "positive_ratio_ma7": 83.99092970521542,
+      "sentiment_avg_ma7": 0.3742846374336208
+    },
+    {
+      "date": "2025-04-13",
+      "review_count": 7,
+      "positive_ratio": 85.71428571428571,
+      "sentiment_avg": 0.055748043509287686,
+      "positive_ratio_ma7": 83.53741496598639,
+      "sentiment_avg_ma7": 0.30394900584841383
+    },
+    {
+      "date": "2025-04-14",
+      "review_count": 3,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.022447191390865522,
+      "positive_ratio_ma7": 88.29931972789116,
+      "sentiment_avg_ma7": 0.31143285849500996
+    },
+    {
+      "date": "2025-04-15",
+      "review_count": 5,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.3311261348388791,
+      "positive_ratio_ma7": 90.20408163265306,
+      "sentiment_avg_ma7": 0.3586850474504602
+    },
+    {
+      "date": "2025-04-16",
+      "review_count": 6,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": 0.12916481792909992,
+      "positive_ratio_ma7": 87.82312925170069,
+      "sentiment_avg_ma7": 0.2748939195598636
+    },
+    {
+      "date": "2025-04-17",
+      "review_count": 4,
+      "positive_ratio": 75.0,
+      "sentiment_avg": -0.05576475671200387,
+      "positive_ratio_ma7": 84.25170068027212,
+      "sentiment_avg_ma7": 0.16086100388215413
+    },
+    {
+      "date": "2025-04-18",
+      "review_count": 3,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.4353318852465456,
+      "positive_ratio_ma7": 86.29251700680273,
+      "sentiment_avg_ma7": 0.15351590872377502
+    },
+    {
+      "date": "2025-04-19",
+      "review_count": 4,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.25346988439559937,
+      "positive_ratio_ma7": 89.14965986394557,
+      "sentiment_avg_ma7": 0.1673604572283248
+    },
+    {
+      "date": "2025-04-20",
+      "review_count": 2,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.7377256728073125,
+      "positive_ratio_ma7": 91.19047619047618,
+      "sentiment_avg_ma7": 0.2647858328423283
+    },
+    {
+      "date": "2025-04-21",
+      "review_count": 1,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.9998469352722168,
+      "positive_ratio_ma7": 91.19047619047618,
+      "sentiment_avg_ma7": 0.40441436768252137
+    },
+    {
+      "date": "2025-04-22",
+      "review_count": 6,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.06558720436233097,
+      "positive_ratio_ma7": 94.04761904761904,
+      "sentiment_avg_ma7": 0.36648023475730024
+    },
+    {
+      "date": "2025-04-23",
+      "review_count": 4,
+      "positive_ratio": 75.0,
+      "sentiment_avg": 0.5687119194415506,
+      "positive_ratio_ma7": 92.85714285714286,
+      "sentiment_avg_ma7": 0.4292726778305075
+    },
+    {
+      "date": "2025-04-24",
+      "review_count": 1,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.9700895975649102,
+      "positive_ratio_ma7": 96.42857142857143,
+      "sentiment_avg_ma7": 0.5758232998700665
+    },
+    {
+      "date": "2025-04-25",
+      "review_count": 8,
+      "positive_ratio": 50.0,
+      "sentiment_avg": -0.07133190749279066,
+      "positive_ratio_ma7": 89.28571428571429,
+      "sentiment_avg_ma7": 0.5034427580501614
+    },
+    {
+      "date": "2025-04-26",
+      "review_count": 10,
+      "positive_ratio": 80.0,
+      "sentiment_avg": 0.36759836298034176,
+      "positive_ratio_ma7": 86.42857142857143,
+      "sentiment_avg_ma7": 0.5197468264194104
+    },
+    {
+      "date": "2025-04-27",
+      "review_count": 7,
+      "positive_ratio": 85.71428571428571,
+      "sentiment_avg": 0.27598027898997674,
+      "positive_ratio_ma7": 84.38775510204083,
+      "sentiment_avg_ma7": 0.45378319873121953
+    },
+    {
+      "date": "2025-04-28",
+      "review_count": 6,
+      "positive_ratio": 66.66666666666666,
+      "sentiment_avg": 0.16431042230857285,
+      "positive_ratio_ma7": 79.62585034013605,
+      "sentiment_avg_ma7": 0.3344208397364133
+    },
+    {
+      "date": "2025-04-29",
+      "review_count": 6,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.3241455548807009,
+      "positive_ratio_ma7": 79.62585034013605,
+      "sentiment_avg_ma7": 0.3713577469533233
+    },
+    {
+      "date": "2025-04-30",
+      "review_count": 7,
+      "positive_ratio": 85.71428571428571,
+      "sentiment_avg": 0.08358745966799871,
+      "positive_ratio_ma7": 81.156462585034,
+      "sentiment_avg_ma7": 0.30205425269995867
+    },
+    {
+      "date": "2025-05-01",
+      "review_count": 10,
+      "positive_ratio": 70.0,
+      "sentiment_avg": 0.2638675642187483,
+      "positive_ratio_ma7": 76.87074829931973,
+      "sentiment_avg_ma7": 0.20116539079336412
+    },
+    {
+      "date": "2025-05-02",
+      "review_count": 12,
+      "positive_ratio": 91.66666666666666,
+      "sentiment_avg": 0.508234185913646,
+      "positive_ratio_ma7": 82.82312925170069,
+      "sentiment_avg_ma7": 0.28396054699428364
+    },
+    {
+      "date": "2025-05-03",
+      "review_count": 7,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.7446585748434403,
+      "positive_ratio_ma7": 85.68027210884354,
+      "sentiment_avg_ma7": 0.33782629154615484
+    },
+    {
+      "date": "2025-05-04",
+      "review_count": 6,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.3166132716104281,
+      "positive_ratio_ma7": 87.72108843537414,
+      "sentiment_avg_ma7": 0.3436310047776479
+    },
+    {
+      "date": "2025-05-05",
+      "review_count": 4,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.3892467284286635,
+      "positive_ratio_ma7": 92.4829931972789,
+      "sentiment_avg_ma7": 0.3757647627948037
+    },
+    {
+      "date": "2025-05-06",
+      "review_count": 2,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.4050651231791934,
+      "positive_ratio_ma7": 92.4829931972789,
+      "sentiment_avg_ma7": 0.3873247011231598
+    },
+    {
+      "date": "2025-05-07",
+      "review_count": 2,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.6969815790084408,
+      "positive_ratio_ma7": 94.52380952380953,
+      "sentiment_avg_ma7": 0.4749524324575087
+    },
+    {
+      "date": "2025-05-08",
+      "review_count": 5,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.25455869451882157,
+      "positive_ratio_ma7": 98.80952380952382,
+      "sentiment_avg_ma7": 0.4736225939289477
+    },
+    {
+      "date": "2025-05-09",
+      "review_count": 3,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.37111281447642935,
+      "positive_ratio_ma7": 100.0,
+      "sentiment_avg_ma7": 0.4540338265807739
+    },
+    {
+      "date": "2025-05-10",
+      "review_count": 10,
+      "positive_ratio": 90.0,
+      "sentiment_avg": 0.2564446696216751,
+      "positive_ratio_ma7": 98.57142857142857,
+      "sentiment_avg_ma7": 0.3842889829776646
+    },
+    {
+      "date": "2025-05-11",
+      "review_count": 6,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.24662295873417506,
+      "positive_ratio_ma7": 98.57142857142857,
+      "sentiment_avg_ma7": 0.37429036685248557
+    },
+    {
+      "date": "2025-05-12",
+      "review_count": 3,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.3136994253125107,
+      "positive_ratio_ma7": 98.57142857142857,
+      "sentiment_avg_ma7": 0.36349789497874946
+    },
+    {
+      "date": "2025-05-13",
+      "review_count": 6,
+      "positive_ratio": 83.33333333333334,
+      "sentiment_avg": 0.49764543874315437,
+      "positive_ratio_ma7": 96.19047619047618,
+      "sentiment_avg_ma7": 0.3767236543450296
+    },
+    {
+      "date": "2025-05-14",
+      "review_count": 2,
+      "positive_ratio": 50.0,
+      "sentiment_avg": -0.3702632221205084,
+      "positive_ratio_ma7": 89.04761904761904,
+      "sentiment_avg_ma7": 0.22426011132660828
+    },
+    {
+      "date": "2025-05-15",
+      "review_count": 3,
+      "positive_ratio": 100.0,
+      "sentiment_avg": 0.7215981282296801,
+      "positive_ratio_ma7": 89.04761904761904,
+      "sentiment_avg_ma7": 0.2909800304281595
+    },
+    {
+      "date": "2025-05-16",
+      "review_count": 4,
+      "positive_ratio": 50.0,
+      "sentiment_avg": -0.03978205724385253,
+      "positive_ratio_ma7": 81.9047619047619,
+      "sentiment_avg_ma7": 0.2322807630395478
+    },
+    {
+      "date": "2025-05-17",
+      "review_count": 2,
+      "positive_ratio": 50.0,
+      "sentiment_avg": 0.3681205056323826,
+      "positive_ratio_ma7": 76.19047619047619,
+      "sentiment_avg_ma7": 0.24823445389822033
+    }
+  ]
+}
